@@ -6,11 +6,12 @@
 
 ## 1. ปฐมบทความเจ๊ง: แค่ผิดที่ผิดทาง หรือพฤติกรรมคนดูเปลี่ยน?
 
-![Distribution Insight: หนังเรื่องไหนรอด เรื่องไหนร่วง](genre_distribution_flops.png)
+<img width="1782" height="923" alt="genre_distribution_flops" src="https://github.com/user-attachments/assets/a82755ed-c570-4a66-ae82-d8df4ae1360e" />
+
 
 จากภาพรวมภาพยนตร์ที่เคยขึ้นอันดับ 1 บน Netflix ทั้งหมด 55 เรื่อง[cite: 8] มีสัดส่วนถึง 32.7% (18 เรื่อง) ที่เคย "เจ๊งในโรงภาพยนตร์" มาก่อน[cite: 8] โดยประเภทภาพยนตร์ที่ติดอันดับสูงสุดคือแนว Action, Drama และ Comedy ตามลำดับ[cite: 8] 
 
-![เปรียบเทียบจำนวนหนังเจ๊งและไม่เจ๊ง แยกตาม Segment](flop_count_grouped_by_segment.png)
+<img width="1784" height="1133" alt="flop_count_grouped_by_segment" src="https://github.com/user-attachments/assets/d95c44be-8232-4502-80e9-a9c1304df5ad" />
 
 เมื่อแยกประเภทตามกลุ่มภาษาพบว่า เกือบ 1 ใน 3 ของหนังที่เคยขึ้นอันดับ 1 เคยเจ๊งในโรงมาก่อน[cite: 9] โดยภาพยนตร์กลุ่มภาษาอังกฤษ (Films English) ประสบภาวะเจ๊งในโรงบ่อยกว่ากลุ่ม Non-English อย่างชัดเจน[cite: 9] ตัวเลขนี้ชี้ให้เห็นว่าความคาดหวังและต้นทุนการตลาดของหนังฮอลลีวูดในการฉายโรงภาพยนตร์มีความเสี่ยงสูงกว่ามาก
 
@@ -18,11 +19,13 @@
 
 ## 2. กฎเกณฑ์เรื่องเงิน: ทุนหนาไม่ได้แปลว่ารอดเสมอไป
 
-![Act 1: ทุนสร้าง vs รายได้โรงหนัง](act1_budget_vs_boxoffice_by_segment.png)
+<img width="1800" height="900" alt="act1_budget_vs_boxoffice_by_segment" src="https://github.com/user-attachments/assets/6b6d5ef0-7ffc-4161-98a0-ce6cba6750dc" />
+
 
 กราฟความสัมพันธ์ระหว่างทุนสร้างและรายได้ Box Office แสดงให้เห็นกลุ่มจุดสีแดง (หนังที่เจ๊งในโรง) ซึ่งกองรวมกันอยู่ใต้เส้นคุ้มทุนอย่างชัดเจน[cite: 4] ในฝั่งหนังภาษาอังกฤษ มีกลุ่มภาพยนตร์ที่ทุนสร้างสูงแต่รายได้ในโรงกลับต่ำมาก[cite: 4] 
 
-![Act 2: ทุนสร้างซื้อความยั่งยืนบนชาร์ตได้ไหม?](act2_budget_vs_weeks_by_segment.png)
+<img width="1800" height="900" alt="act2_budget_vs_weeks_by_segment" src="https://github.com/user-attachments/assets/bc1dd06c-cf08-4420-bb0a-273f4b5c3d4a" />
+
 
 ยิ่งไปกว่านั้น การทุ่มเม็ดเงินมหาศาลก็ไม่ได้สามารถซื้อ "ความยั่งยืน" บนชาร์ต Netflix ได้[cite: 6] หนังที่ลงทุนสูงส่วนใหญ่ยังคงเกาะกลุ่มอยู่ใน Top 10 ได้ในระยะเวลาที่ไม่ต่างจากกลุ่มหนังทุนต่ำมากนัก[cite: 6]
 
@@ -30,15 +33,18 @@
 
 ## 3. ดินแดนแห่งการฟื้นคืนชีพ และปรากฏการณ์ Blockbuster Halo
 
-![Act 2: หนังเจ๊งในโรง แต่ยอดวิว Netflix สูงสุด](act2_boxoffice_vs_views_by_segment.png)
+<img width="1800" height="900" alt="act2_boxoffice_vs_views_by_segment" src="https://github.com/user-attachments/assets/48153bca-72d7-434c-9975-4abbd49247ef" />
+
 
 Netflix ได้กลายเป็นเบาะรองรับชั้นดี หนังที่เจ๊งในโรง (กราฟแท่งสีเทาต่ำ) กลับสามารถกวาด Total Views บน Netflix (แท่งสีแดง) ไปได้อย่างมหาศาลเมื่อย้ายมาฉายบนสตรีมมิ่ง[cite: 5] 
 
-![Act 3: Flop rate vs ความอึดบนชาร์ต](act3_overview_by_segment.png)
+<img width="1800" height="900" alt="act3_overview_by_segment" src="https://github.com/user-attachments/assets/fb788f6d-fed1-4c9f-a8c5-cb1880f5dd10" />
+
 
 อัตราการเจ๊ง (Flop Rate) ของหนังภาษาอังกฤษอยู่ที่ราว 34% ขณะที่หนัง Non-English อยู่ที่ 31%[cite: 7] 
 
-![Act 3: Blockbuster Halo](act3_blockbuster_halo_by_segment.png)
+<img width="1800" height="900" alt="act3_blockbuster_halo_by_segment" src="https://github.com/user-attachments/assets/5e30863e-05ee-46d2-a139-e490ab18ceaa" />
+
 
 สิ่งที่น่าสนใจคือ จุดคุ้มทุนของการสร้างกระแส (Sweet Spot) สำหรับกลุ่มหนังภาษาอังกฤษอยู่ที่ช่วงทุนสร้าง 65 ล้าน – 146 ล้านเหรียญ[cite: 1] ซึ่งเป็นช่วงที่สร้างออร่าความน่าดู หรือที่เรียกว่า "Blockbuster Halo" ช่วยดึงดูดยอดวิวเฉลี่ยบนสตรีมมิ่งได้สูงสุดอย่างโดดเด่นทิ้งห่างกลุ่มอื่นๆ[cite: 1]
 
@@ -46,10 +52,10 @@ Netflix ได้กลายเป็นเบาะรองรับชั้
 
 ## 4. ความขัดแย้งระหว่างนักวิจารณ์ (IMDb) กับคนดูสตรีมมิ่ง
 
-![Act 4: คะแนนโหวต IMDb vs ยอดวิว Netflix](act4_rating_vs_views_by_flop_status.png)
+<img width="1800" height="900" alt="act4_rating_vs_views_by_flop_status" src="https://github.com/user-attachments/assets/5749ea49-3f9d-4c83-b5cd-d30f3f247422" />
 
 เมื่อเทียบความสัมพันธ์ระหว่างคะแนนรีวิวจาก IMDb และยอดวิว หนังที่เจ๊งในโรง (จุดสีแดง) บางเรื่องไม่ได้มีคะแนนวิจารณ์ที่แย่เสมอไป[cite: 2] และบางเรื่องสามารถทำคะแนนได้สูงพร้อมกับกวาดยอดวิวในระดับ Top ได้สำเร็จ[cite: 2] 
 
-![Act 4: คะแนนโหวต IMDb vs จำนวนสัปดาห์ที่ติด Top 10](act4_rating_vs_weeks_by_flop_status.png)
+<img width="1800" height="900" alt="act4_rating_vs_weeks_by_flop_status" src="https://github.com/user-attachments/assets/e266d354-0c30-4d38-99e0-623ad681471e" />
 
 ในขณะเดียวกัน คะแนนวิจารณ์ที่สูงลิ่วไม่ได้การันตีว่าจะทำให้หนังยืนระยะบนชาร์ต Top 10 ได้นานเสมอไป[cite: 3] ภาพยนตร์บางเรื่องที่มีคะแนนระดับกลางๆ กลับอึดและเกาะติดชาร์ตได้นานตั้งแต่ 5 ถึง 14 สัปดาห์[cite: 3] ข้อมูลนี้ช่วยยืนยันตรรกะที่ว่า พฤติกรรมผู้ชมบน Netflix ตัดสินใจกดดูภาพยนตร์ด้วยปัจจัยที่ต่างจากการตีตั๋วในโรงภาพยนตร์ และไม่ได้เดินตามมาตรฐานของนักวิจารณ์เสมอไป
