@@ -35,11 +35,13 @@
 
 ## 3. ความขัดแย้งระหว่างนักวิจารณ์ (IMDb) กับคนดูสตรีมมิ่ง
 
-<img width="1800" height="900" alt="act4_rating_vs_views_by_flop_status" src="https://github.com/user-attachments/assets/5749ea49-3f9d-4c83-b5cd-d30f3f247422" />
+<img width="2400" height="1125" alt="act4_rating_vs_views_by_flop_status" src="https://github.com/user-attachments/assets/b748de06-4730-4ba9-99a5-ad6be656ec46" />
+
 
 เมื่อเทียบความสัมพันธ์ระหว่างคะแนนรีวิวจาก IMDb และยอดวิว หนังที่เจ๊งในโรง (จุดสีแดง) บางเรื่องไม่ได้มีคะแนนวิจารณ์ที่แย่เสมอไป และบางเรื่องสามารถทำคะแนนได้สูงพร้อมกับกวาดยอดวิวในระดับ Top ได้สำเร็จ 
 
-<img width="1800" height="900" alt="act4_rating_vs_weeks_by_flop_status" src="https://github.com/user-attachments/assets/e266d354-0c30-4d38-99e0-623ad681471e" />
+<img width="2400" height="1125" alt="act4_rating_vs_weeks_by_flop_status" src="https://github.com/user-attachments/assets/6678f249-aee6-4948-87c5-f4202f7be802" />
+
 
 ในขณะเดียวกัน คะแนนวิจารณ์ที่สูงลิ่วไม่ได้การันตีว่าจะทำให้หนังยืนระยะบนชาร์ต Top 10 ได้นานเสมอไป ภาพยนตร์บางเรื่องที่มีคะแนนระดับกลางๆ กลับอึดและเกาะติดชาร์ตได้นานตั้งแต่ 5 ถึง 14 สัปดาห์ ข้อมูลนี้ช่วยยืนยันตรรกะที่ว่า พฤติกรรมผู้ชมบน Netflix ตัดสินใจกดดูภาพยนตร์ด้วยปัจจัยที่ต่างจากการตีตั๋วในโรงภาพยนตร์ และไม่ได้เดินตามมาตรฐานของนักวิจารณ์เสมอไป
 
