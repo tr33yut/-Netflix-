@@ -76,8 +76,6 @@ Netflix ได้กลายเป็นเบาะรองรับชั้
 
 
 สิ่งที่น่าสนใจคือ จุดคุ้มทุนของการสร้างกระแส (Sweet Spot) สำหรับกลุ่มหนังภาษาอังกฤษอยู่ที่ช่วงทุนสร้าง 65 ล้าน – 146 ล้านเหรียญ ซึ่งเป็นช่วงที่สร้างออร่าความน่าดู หรือที่เรียกว่า "Blockbuster Halo" ช่วยดึงดูดยอดวิวเฉลี่ยบนสตรีมมิ่งได้สูงสุดอย่างโดดเด่นทิ้งห่างกลุ่มอื่นๆ
-<img width="2416" height="1216" alt="summary_genre_resurrection_scatter" src="https://github.com/user-attachments/assets/27b586ff-817b-4a87-8764-019210c5eda7" />
-
 
 <img width="2416" height="1216" alt="summary_genre_resurrection_scatter" src="https://github.com/user-attachments/assets/6a957fd1-ca78-418f-8309-ef5934286c2f" />
 
