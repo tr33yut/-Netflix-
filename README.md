@@ -61,21 +61,44 @@
 
 ## 4. ดินแดนแห่งการฟื้นคืนชีพ และปรากฏการณ์ Blockbuster Halo
 
-<img width="1800" height="900" alt="act2_boxoffice_vs_views_by_segment" src="https://github.com/user-attachments/assets/48153bca-72d7-434c-9975-4abbd49247ef" />
+<img width="1589" height="769" alt="download" src="https://github.com/user-attachments/assets/e0099847-e27e-421c-9a6a-89ca15baed34" />
 
 
 Netflix ได้กลายเป็นเบาะรองรับชั้นดี หนังที่เจ๊งในโรง (กราฟแท่งสีเทาต่ำ) กลับสามารถกวาด Total Views บน Netflix (แท่งสีแดง) ไปได้อย่างมหาศาลเมื่อย้ายมาฉายบนสตรีมมิ่ง 
 
-<img width="1800" height="900" alt="act3_overview_by_segment" src="https://github.com/user-attachments/assets/fb788f6d-fed1-4c9f-a8c5-cb1880f5dd10" />
+<img width="1590" height="770" alt="download (2)" src="https://github.com/user-attachments/assets/799e36dc-1eb7-436f-80d8-a20ea336321b" />
 
 
 อัตราการเจ๊ง (Flop Rate) ของหนังภาษาอังกฤษอยู่ที่ราว 34% ขณะที่หนัง Non-English อยู่ที่ 31%
 
 <img width="1800" height="900" alt="act3_blockbuster_halo_by_segment" src="https://github.com/user-attachments/assets/5e30863e-05ee-46d2-a139-e490ab18ceaa" />
-<img width="2416" height="1216" alt="summary_genre_resurrection_scatter" src="https://github.com/user-attachments/assets/6a957fd1-ca78-418f-8309-ef5934286c2f" />
-<img width="996" height="690" alt="download (4)" src="https://github.com/user-attachments/assets/258c0c1d-24dc-40d5-8114-0f0771f978ed" />
-<img width="2416" height="1216" alt="summary_genre_resurrection_scatter" src="https://github.com/user-attachments/assets/27b586ff-817b-4a87-8764-019210c5eda7" />
+
 
 
 สิ่งที่น่าสนใจคือ จุดคุ้มทุนของการสร้างกระแส (Sweet Spot) สำหรับกลุ่มหนังภาษาอังกฤษอยู่ที่ช่วงทุนสร้าง 65 ล้าน – 146 ล้านเหรียญ ซึ่งเป็นช่วงที่สร้างออร่าความน่าดู หรือที่เรียกว่า "Blockbuster Halo" ช่วยดึงดูดยอดวิวเฉลี่ยบนสตรีมมิ่งได้สูงสุดอย่างโดดเด่นทิ้งห่างกลุ่มอื่นๆ
+<img width="2416" height="1216" alt="summary_genre_resurrection_scatter" src="https://github.com/user-attachments/assets/27b586ff-817b-4a87-8764-019210c5eda7" />
 
+
+<img width="2416" height="1216" alt="summary_genre_resurrection_scatter" src="https://github.com/user-attachments/assets/6a957fd1-ca78-418f-8309-ef5934286c2f" />
+
+เมื่อนำข้อมูลภาพยนตร์ที่เคย "เจ๊งในโรงภาพยนตร์" มาส่องกล้องจุลทรรศน์ดูความสัมพันธ์ระหว่างรายได้ในโรง (แกน X, Log Scale ยิ่งซ้ายยิ่งเจ๊งหนัก) กับยอดวิวบน Netflix (แกน Y, Log Scale ยิ่งสูงยิ่งปังบนสตรีมมิ่ง) ภาพที่ปรากฏออกมาคือนิยามของคำว่า **"ดินแดนแห่งการฟื้นคืนชีพอย่างแท้จริง"**
+
+### 🎬 แนวไหนกลับมาได้จริง? เจาะลึกราย Genre และรายเรื่อง
+* **🌟 แชมป์การฟื้นคืนชีพสูงสุด (Fantasy):** กลุ่มแนว Fantasy เช่น *KPop Demon Hunters* และ *Damsel* ครองแชมป์การคืนชีพที่รุนแรงที่สุด แม้รายได้ในโรงจะต่ำเตี่ยเรี่ยดินหรือมีความท้าทายสูง แต่พอย้ายมาอยู่บน Netflix กลับกวาดยอดวิวถล่มทลายระดับร้อยล้านวิว
+* **🎭 สายแข็งยืนระยะ (Drama & Thriller):** ภาพยนตร์ดราม่าและระทึกขวัญ เช่น *Frankenstein*, *Society of the Snow* หรือ *Wake Up Dead Man: A Knives Out Mystery* แม้จะไม่ใช่หนังฟอร์มยักษ์ทำเงินถล่มทลายในโรง แต่กลับมีฐานผู้ชมบนสตรีมมิ่งเหนียวแน่นและทำยอดวิวได้สูงอย่างน่าทึ่ง
+* **💥 กับดักหนังแอคชันทุนสูง (Action Trap):** ในขณะที่แนว Action เป็นกลุ่มที่ "เจ๊งในโรงภาพยนตร์บ่อยที่สุด" (พบมากถึง 4 เรื่องในกลุ่มหนังเจ๊ง เช่น *Red Notice*, *The Mother*, *The Gray Man*) แต่น่าสังเกตว่าส่วนใหญ่เมื่อมาอยู่บน Netflix ยอดวิวกลับไม่ได้โดดเด่นหรือพุ่งทะยานเท่ากับแนวแฟนตาซีหรือดราม่าบางเรื่อง
+
+<img width="996" height="690" alt="download (4)" src="https://github.com/user-attachments/assets/258c0c1d-24dc-40d5-8114-0f0771f978ed" />
+
+เมื่อจัดอันดับยอดวิวสูงสุดของภาพยนตร์กลุ่มที่เคยเจ๊งในโรงภาพยนตร์แยกตามกลุ่มภาษา จะเห็นภาพชัดเจนว่าภาพยนตร์ภาษาอังกฤษอย่าง *KPop Demon Hunters* (พุ่งสูงถึง 674.0 ล้านวิว) และ *Damsel* (123.3 ล้านวิว) รวมถึงฝั่ง Non-English อย่าง *Society of the Snow* (96.8 ล้านวิว) คือเครื่องยืนยันชั้นดีว่า **"สตรีมมิ่งคือพื้นที่ล้างตาชั้นยอด"** ที่เปลี่ยนความล้มเหลวให้กลายเป็นปรากฏการณ์ระดับโลกได้
+
+---
+
+## 📌 บทสรุปภาพรวมโปรเจกต์ (Conclusion)
+โปรเจกต์นี้สะท้อนให้เห็นว่า **"ความล้มเหลวในโรงภาพยนตร์ ไม่ได้แปลว่าจุดจบของภาพยนตร์"** เสมอไป พฤติกรรมของผู้ชมบนแพลตฟอร์มสตรีมมิ่งอย่าง Netflix มีความยืดหยุ่น เปิดรับคอนเทนต์หลากหลาย และถูกขับเคลื่อนด้วยอัลกอริทึมรวมถึงความสะดวกในการเข้าถึง มากกว่าตัวเลขรายได้เปิดตัวหรือคำวิจารณ์ในโรงแบบดั้งเดิม นี่คือยุคทองที่หนังนอกสายตาหรือหนังเจ๊งในโรงสามารถกลับมาทวงบัลลังก์ความนิยมได้บนโลกออนไลน์
+
+---
+
+## 🛠️ Tech Stack & Tools
+* **Python** (Pandas, Matplotlib, Seaborn) สำหรับการวิเคราะห์ข้อมูลและสร้าง Data Visualization
+* **Data Source:** Netflix Top 10 Records & IMDb Datasets
