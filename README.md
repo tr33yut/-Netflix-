@@ -19,12 +19,14 @@
 
 ## 2. กฎเกณฑ์เรื่องเงิน: ทุนหนาไม่ได้แปลว่ารอดเสมอไป
 
-<img width="1800" height="900" alt="act1_budget_vs_boxoffice_by_segment" src="https://github.com/user-attachments/assets/6b6d5ef0-7ffc-4161-98a0-ce6cba6750dc" />
+<img width="1590" height="770" alt="act1_budget_vs_boxoffice_by_segment (2)" src="https://github.com/user-attachments/assets/005f43b5-a396-4483-87d8-8ec0fa88e483" />
+
 
 
 กราฟความสัมพันธ์ระหว่างทุนสร้างและรายได้ Box Office แสดงให้เห็นกลุ่มจุดสีแดง (หนังที่เจ๊งในโรง) ซึ่งกองรวมกันอยู่ใต้เส้นคุ้มทุนอย่างชัดเจน ในฝั่งหนังภาษาอังกฤษ มีกลุ่มภาพยนตร์ที่ทุนสร้างสูงแต่รายได้ในโรงกลับต่ำมาก
 
-<img width="1800" height="900" alt="act2_budget_vs_weeks_by_segment" src="https://github.com/user-attachments/assets/bc1dd06c-cf08-4420-bb0a-273f4b5c3d4a" />
+<img width="2400" height="1125" alt="act2_budget_vs_weeks_by_segment" src="https://github.com/user-attachments/assets/e70b782e-5791-4d8e-8e2c-80b307596f90" />
+
 
 
 ยิ่งไปกว่านั้น การทุ่มเม็ดเงินมหาศาลก็ไม่ได้สามารถซื้อ "ความยั่งยืน" บนชาร์ต Netflix ได้หนังที่ลงทุนสูงส่วนใหญ่ยังคงเกาะกลุ่มอยู่ใน Top 10 ได้ในระยะเวลาที่ไม่ต่างจากกลุ่มหนังทุนต่ำมากนัก
