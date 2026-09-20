@@ -51,8 +51,6 @@
 
 ## 4. ดินแดนแห่งการฟื้นคืนชีพ และปรากฏการณ์ Blockbuster Halo
 
-<img width="1589" height="769" alt="download 4 1" src="https://github.com/user-attachments/assets/3997b0a0-41f2-4c90-8036-498b522c8a90" />
-
 
 Netflix ได้กลายเป็นเบาะรองรับชั้นดี หนังที่เจ๊งในโรง (กราฟแท่งสีเทาต่ำ) กลับสามารถกวาด Total Views บน Netflix (แท่งสีแดง) ไปได้อย่างมหาศาลเมื่อย้ายมาฉายบนสตรีมมิ่ง 
 
