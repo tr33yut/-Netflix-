@@ -8,7 +8,7 @@
 
 <img width="1585" height="770" alt="download" src="https://github.com/user-attachments/assets/1db9079b-e688-40b7-8e0f-e870f3861dca" />
 
-จากภาพรวมภาพยนตร์ที่เคยขึ้นอันดับ 1 บน Netflix ทั้งหมด 55 เรื่อง มีสัดส่วนถึง 32.7% (18 เรื่อง) ที่เคย "เจ๊งในโรงภาพยนตร์" มาก่อนโดยประเภทภาพยนตร์ที่ติดอันดับสูงสุดคือแนว Action, Drama และ Comedy ตามลำดับ 
+จากภาพรวมภาพยนตร์ที่เคยขึ้นอันดับ 1 บน Netflix ทั้งหมด 55 เรื่อง มีสัดส่วนถึง 33.9% (19 เรื่อง) ที่เคย "เจ๊งในโรงภาพยนตร์" มาก่อนโดยประเภทภาพยนตร์ที่ติดอันดับสูงสุดคือแนว Action, Drama และ Comedy ตามลำดับ 
 
 <img width="1784" height="1133" alt="flop_count_grouped_by_segment" src="https://github.com/user-attachments/assets/d95c44be-8232-4502-80e9-a9c1304df5ad" />
 
